@@ -1,4 +1,4 @@
-# codealpha_task5
+# codealpha_task3
 Web Based Music Player
 ## Web Music Player
 This is a simple, modern music player built with HTML, CSS, and JavaScript. It features basic playback controls, a progress bar, volume control, and a dynamic playlist.
